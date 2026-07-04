@@ -31,6 +31,14 @@ Senior Project Management Analyst with experience in:
 - Financial Dashboard
 - Inventory Dashboard
 
+## Goals for 2026
+
+- ✅ Build 5 Professional Dashboards
+- ✅ Learn Python
+- ✅ Become an AI-enabled Business Analyst
+- ✅ Start Freelancing
+- ✅ Keep Learning Every Day
+
 ## Motto
 "Keep learning. Keep building. One step at a time."
 

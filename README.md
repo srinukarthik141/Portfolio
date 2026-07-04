@@ -22,6 +22,7 @@ Senior Project Management Analyst with experience in:
 - Advanced DAX
 
 ## Projects
+
 🚧 Coming Soon...
 
 - Service Desk Dashboard

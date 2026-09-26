@@ -5,6 +5,7 @@ My learning journey in Power BI, Python, AI, Power Apps and Automation.
 # Hi, I'm Srinivasa Karthik 👋
 
 ## About Me
+Consultant 
 Senior Project Management Analyst with experience in:
 - Power BI
 - Power Apps
@@ -20,6 +21,7 @@ Senior Project Management Analyst with experience in:
 - GitHub
 - Microsoft Fabric
 - Advanced DAX
+- 
 
 ## Projects
 

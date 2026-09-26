@@ -1,47 +1,37 @@
-# 👋 Welcome to My Portfolio
+# 👋 Hi, I'm Srinivasa Karthik
 
-My learning journey in Power BI, Python, AI, Power Apps and Automation.
-<>
-# Hi, I'm Srinivasa Karthik 👋
+**Consultant / Assistant Manager @ ADP** — Business Analysis, Analytics & Automation
+Power Platform • Power BI • SQL • Databricks • AI-Enabled Solutions
+
+📍 Hyderabad, India | [LinkedIn](https://www.linkedin.com/in/srinivasa-k-9681b7228)
 
 ## About Me
-Consultant 
-Senior Project Management Analyst with experience in:
-- Power BI
-- Power Apps
-- Power Automate
-- Excel
-- SQL
-- Business Analysis
-- Project Management
+Consultant / Assistant Manager with 17+ years of enterprise experience across
+HR technology, banking, and insurance. I translate business requirements into
+analytics, automation, and AI-enabled solutions — 30% efficiency gains,
+95% on-time delivery. Recently promoted at ADP.
+
+## Skills
+Power BI | Power Apps | Power Automate | Excel | SQL | Databricks | Jira |
+Confluence | Salesforce | Cognos | Agile/Scrum | Generative AI & Prompt Engineering
 
 ## Currently Learning
-- Python
-- AI
-- GitHub
+- Python (Pandas, NumPy)
+- Generative AI / LLMs
 - Microsoft Fabric
 - Advanced DAX
-- 
 
 ## Projects
-
-🚧 Coming Soon...
-
-- Service Desk Dashboard
-- HR Analytics Dashboard
-- Sales Dashboard
-- Financial Dashboard
-- Inventory Dashboard
+- ⬜ HR Analytics Dashboard (Power BI)
+- ⬜ Sales Dashboard (Power BI)
+- ⬜ Service Desk Dashboard (Power BI)
+- ⬜ Financial Dashboard (Power BI)
 
 ## Goals for 2026
+- ⬜ Build 5 professional dashboards
+- ⬜ Complete Python for data analysis
+- ✅ Promoted to Consultant / Assistant Manager
+- ⬜ Start freelancing
+- ✅ Keep learning every day
 
-- ✅ Build 5 Professional Dashboards
-- ✅ Learn Python
-- ✅ Become an AI-enabled Business Analyst
-- ✅ Start Freelancing
-- ✅ Keep Learning Every Day
-
-## Motto
-"Keep learning. Keep building. One step at a time."
-
-Om Namah Shivaya 🙏
+&gt; "Keep learning. Keep building. One step at a time."
